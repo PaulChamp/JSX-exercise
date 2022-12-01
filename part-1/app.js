@@ -1,1 +1,4 @@
-const app = () => <div></div>
+const app = () => <div>
+    <firstComponent />
+    <nameComponent name="name" />
+</div>
